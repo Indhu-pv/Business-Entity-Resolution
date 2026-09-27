@@ -1,0 +1,9 @@
+﻿.venv/
+dataset/clean/
+train/
+test/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.tmp

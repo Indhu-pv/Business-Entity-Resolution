@@ -1,0 +1,4 @@
+pandas==2.2.2
+rapidfuzz==3.9.7
+jellyfish==1.0.3
+scikit-learn==1.7.2
